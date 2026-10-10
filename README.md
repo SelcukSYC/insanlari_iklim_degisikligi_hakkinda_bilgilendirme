@@ -1,2 +1,2 @@
-# insanlari_iklim_degisikligi_hakk-nda_bilgilendirme
+# insanlari_iklim_degisikligi_hakkinda_bilgilendirme
 insanları iklim değişikliği hakkında bilgilendiriyorum :)
