@@ -1,2 +1,2 @@
 # insanlari_iklim_degisikligi_hakkinda_bilgilendirme
-insanları iklim değişikliği hakkında bilgilendiriyorum :)
+konuşma sentezi ile insanları iklim değişikliği hakkında bilgilendiriyorum :)
