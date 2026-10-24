@@ -20,3 +20,5 @@ async def iklimbilgisi(ctx):
 async def bolme(ctx, left: int, right: int):
     """Adds two numbers together."""
     await ctx.send(left / right)
+
+bot.run("TOKEN")
